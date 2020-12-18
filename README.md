@@ -26,3 +26,9 @@ docker run \
     -p 689:689 \
  localpingdirectory:latest
  ```
+
+or optionally, run
+
+```sh
+./dockerrun.sh
+```

@@ -6,4 +6,4 @@ docker run \
     -p 5005:5005 \
     -p 636:636 \
     -p 689:689 \
- localdirectory:latest
+ localpingdirectory:latest
