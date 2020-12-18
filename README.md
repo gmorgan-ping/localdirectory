@@ -1,6 +1,6 @@
 # Build Local Directory Docker Image
 
-In this local build example, we'll press the product [configuration](pingdiectory/) directly into the image.
+In this local build example, we'll press the product [configuration](https://github.com/gmorgan-ping/localdirectory/tree/main/pingdirectory) directly into the image.
 
 ## Build the Image
 
